@@ -35,22 +35,21 @@ profiles:
 
 interests:
   - Development Economics
-  - Political Economy
+  - Violence Against Women
   - Applied microeconomics
   - Econometrics
-  - China
-  - Corruption
-  - Investment
+  - Social Norms
+
 
 education:
   - area: PhD - Economics
     institution: Érudite - Université Gustave Eiffel
     icon: ""
-    date_start: 2025-09-01
-    date_end: 2028-08-31
+    date_start: 2024-09-01
+    date_end: 2027-08-31
     summary: |
       - Thesis: Corruption and Economic Distortions: The Example of China 
-      - Supervisors: Mélika Ben Salem • Marin Ferry
+      - Supervisors: Catherine Bros • Marine de Talancé
   - area: MSc - Development Economics and International Project Management
     institution: Université Gustave Eiffel
     icon: ""
