@@ -4,7 +4,7 @@ title: Hanna Bony
 
 # Full name (for SEO)
 first_name: Hanna
-last_name: RouchBonyon
+last_name: Bony
 
 # Is this the primary user of the site?
 superuser: true
