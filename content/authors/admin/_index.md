@@ -31,7 +31,8 @@ profiles:
   - icon: brands/github
     url: https://github.com/AndreaRouchon
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/andrearouchon/
+    url: https://www.linkedin.com/in/hannabony
+
 
 interests:
   - Development Economics
