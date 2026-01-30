@@ -49,36 +49,45 @@ education:
     date_start: 2024-09-01
     date_end: 2027-08-31
     summary: |
-      - Thesis: Corruption and Economic Distortions: The Example of China 
+      - Thesis: Four essays on the causes and prevention of intimate partner violence in developing countries 
       - Supervisors: Catherine Bros • Marine de Talancé
   - area: MSc - Development Economics and International Project Management
     institution: Université Gustave Eiffel
     icon: ""
-    date_start: 2024-09-01
-    date_end: 2025-05-31
-    summary: |
-      - Track: Impact Evaluation
-      - Thesis: Public Debt and Firm Performance: A Love-Hate Relationship?
-      - Field Mission: "The LeadHer Initiative: Empowering Women by expanding their job opportunities", in partnership with The High Atlas Foundation
-      - Digital Methods and Data Sprint 2025, University of Amsterdam
-      - Key courses: Applied Econometrics • Impact Evaluation • Informal Sector
-  - area: MSc - Development Economics
-    institution: Université Paris 1 Panthéon-Sorbonne
-    icon: ""
     date_start: 2022-09-01
     date_end: 2024-05-31
     summary: |
+      - Track: Impact Evaluation
+      - Thesis: Unseen Collateral: The Links Between Political and Intimate Partner Violence
+      - Field Mission: "Watch For Turkey Initiative : Enhance public awareness and preparedness for earthquakes among the youth", in partnership with Istanbul & I 
+
+  - area: MSc - Economic Analysis
+    institution: Université de Cergy (CY) and ESSEC Business School
+    icon: ""
+    date_start: 2021-09-01
+    date_end: 2022-05-31
+    summary: |
       - Track: Research
-      - Thesis: Debt and Growth: Evidence from Firm-Level Data
-      - Thesis: The Role of Religious Organizations in Aid Distribution
-      - Key courses: Econometrics and Impact Evaluation • Development Theory (Microeconomics • Macroeconomics and Historical Perspective) • Institutions, Governance and Development •Firm Performance and Development • Foreign Aid, Debt and Development
+      - Thesis: The Impact of Private School Openings and Closures on Public Primary School Enrollment in France
+      - Key courses: Macroeconomics • Microeconomics • Applied Econometrics
+  
+   
+   - area: MSc - International Economic Studies
+    institution: Université Paris-Est Créteil (UPEC)
+    icon: ""
+    date_start: 2020-09-01
+    date_end: 2021-05-31
+    summary: |
+      - Key courses: Development Microeconomics •  International Economics • Applied Econometrics
+     
+        
   - area: BSc - Economics
     institution: Université Paris 1 Panthéon-Sorbonne
     icon: ""
-    date_start: 2019-09-01
-    date_end: 2022-05-31
+    date_start: 2017-09-01
+    date_end: 2020-05-31
     summary: |
-      - Thesis: The Impect of Climate Change on Migration Flows
+
 
 work:
   - position: Teaching Assistant
